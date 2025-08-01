@@ -1,0 +1,3 @@
+[submodule "vendingmachine_arcade_game/my-techmania"]
+	path = vendingmachine_arcade_game/my-techmania
+	url = https://github.com/XavierTann/my-techmania.git
