@@ -1,0 +1,9 @@
+﻿Item,Purpose,Link,Quantity,Notes
+Elegoo ESP-WROOM-32 DevKit (ESP32),Microcontroller,https://a.co/d/5vAKYio,1,Any ESP-WROOM-32 DevKit will work
+INA219 I2C Current Sensor,Current sensor,https://a.co/d/gYvCdcv,1,"For custom PCB implementation, INA219AIDCNR (https://www.digikey.com/en/products/detail/texas-instruments/INA219AIDCNR/1952540)"
+"16 Channel Expandable Relay Module, 5V Power Supply, IIC Communication",I2C relay board,https://a.co/d/cCdZwwg,1,Min. number of relays needed = # trays + max # spirals per tray
+24VDC Power Supply,Supplying motor power,,1,
+5VDC Power Supply,"Supplying MCU, sensor, relay power",,1,"Alternatives: 
+1. Mobile phone charger powering ESP32 DevKit via USB connector,
+2. 24VDC to 5VDC buck converter"
+"470ohm, 1W Resistor",Switch state resistor,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/ROX1SJ470R/2381467,,Purchase quantity to match number of motors in vending machine

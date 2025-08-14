@@ -1,0 +1,24 @@
+
+This directory contains the main header files for the vending-controller project. Each header defines interfaces and declarations used throughout the codebase, primarily by the source files in the `src/` directory.
+
+## Header Files
+
+- **command_handling.h**: Declarations for handling commands sent to the vending machine, including command parsing and execution logic.
+- **diagnostics.h**: Functions and macros for system diagnostics, error reporting, and status monitoring.
+- **global.h**: Project-wide global definitions, constants, and shared variables.
+- **motor_control.h**: Interfaces for controlling the vending machine's motors, including movement and position logic.
+
+## Usage
+
+Include the relevant header in your source file to access its declarations. For example:
+
+```c
+#include "motor_control.h"
+```
+
+This allows you to use the functions and types defined for motor control in your implementation files.
+
+## Additional Information
+
+All header files use the `.h` extension and are intended to be included in C/C++ source files. For more on header file usage and best practices, see the [GCC documentation on header files](https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html).
+new version when next recompiled. The header file eliminates the labor of
