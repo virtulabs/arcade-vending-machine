@@ -155,3 +155,7 @@ The project is now designed for the Elegoo ESP-WROOM-32 Devkit and a 16-channel 
 - NTPClient (time synchronization)
 - WiFiManager (WiFi configuration)
 - ArduinoJson (JSON parsing)
+
+---
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
