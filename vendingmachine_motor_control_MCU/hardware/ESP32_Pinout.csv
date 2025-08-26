@@ -1,0 +1,9 @@
+﻿ESP32 Pin,Function,Connected to
+VIN,VCC input,5V supply
+GND,GND reference,Common GND
+13,I2C Bus 2 (Relay) SCL,Relay SCL
+14,I2C Bus 2 (Relay) SDA,Relay SDA
+21,I2C Bus 1 (INA219) SDA,INA219 SDA
+22,I2C Bus 1 (INA219) SCL,INA219 SCL
+TX2 (17),Logger UART Output,J7 Pin Header
+3V3,3V3 Output,INA219 VIN
